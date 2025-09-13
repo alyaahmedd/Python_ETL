@@ -1,0 +1,14 @@
+[
+  {"student_id":1,"course_id":201,"grade":85,"attendance":90,"date":"2024-01-15"},
+  {"student_id":2,"course_id":202,"grade":78,"attendance":85,"date":"2024-01-18"},
+  {"student_id":3,"course_id":203,"grade":92,"attendance":95,"date":"2024-02-02"},
+  {"student_id":4,"course_id":204,"grade":88,"attendance":92,"date":"2024-02-10"},
+  {"student_id":5,"course_id":205,"grade":74,"attendance":80,"date":"2024-03-05"},
+  {"student_id":6,"course_id":201,"grade":81,"attendance":88,"date":"2024-03-12"},
+  {"student_id":7,"course_id":202,"grade":69,"attendance":70,"date":"2024-04-01"},
+  {"student_id":8,"course_id":203,"grade":95,"attendance":98,"date":"2024-04-07"},
+  {"student_id":9,"course_id":204,"grade":87,"attendance":90,"date":"2024-05-03"},
+  {"student_id":10,"course_id":205,"grade":90,"attendance":93,"date":"2024-05-20"}
+]
+
+

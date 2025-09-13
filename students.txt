@@ -1,0 +1,11 @@
+student_id|name|gender|city
+1|Mohamed Ali|M|Alexandria
+2|Amira Hassan|F|Cairo
+3|Karim Saeed|M|Aswan
+4|Sara Mohamed|F|Alexandria
+5|Omar Adel|M|Cairo
+6|Nour Youssef|F|Aswan
+7|Tarek Ibrahim|M|Alexandria
+8|Laila Samir|F|Cairo
+9|Hassan Farouk|M|Aswan
+10|Mona Fathy|F|Alexandria
